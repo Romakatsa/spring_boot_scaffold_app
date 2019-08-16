@@ -11,6 +11,12 @@ All configurations that are related to spring, postgres, aws, elk are in
         application.yml file.
 
 #   Run Application
+
+## PostgreSql
+        
+        You need PostgreSQL v9.4 installed, user and database created. Then change application.yml datasource config accordingly
+        
+
 ## Maven
 
         mvn spring-bot:run

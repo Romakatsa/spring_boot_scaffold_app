@@ -1,0 +1,10 @@
+com/project/spring_boot_scaffold_app/util/FileName.class
+com/project/spring_boot_scaffold_app/controllers/MainController.class
+com/project/spring_boot_scaffold_app/model/ServerStatus.class
+com/project/spring_boot_scaffold_app/services/AwsS3Props.class
+com/project/spring_boot_scaffold_app/services/SampleService.class
+com/project/spring_boot_scaffold_app/services/AwsS3Service.class
+com/project/spring_boot_scaffold_app/config/SwaggerConfig.class
+com/project/spring_boot_scaffold_app/Application.class
+com/project/spring_boot_scaffold_app/config/LiquibaseConfig.class
+com/project/spring_boot_scaffold_app/config/AppConfiguration.class

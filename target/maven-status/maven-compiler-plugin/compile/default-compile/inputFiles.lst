@@ -1,0 +1,10 @@
+/home/romakatsa/Storage/spring_boot_scaffold_app/src/main/java/com/project/spring_boot_scaffold_app/model/ServerStatus.java
+/home/romakatsa/Storage/spring_boot_scaffold_app/src/main/java/com/project/spring_boot_scaffold_app/config/SwaggerConfig.java
+/home/romakatsa/Storage/spring_boot_scaffold_app/src/main/java/com/project/spring_boot_scaffold_app/util/FileName.java
+/home/romakatsa/Storage/spring_boot_scaffold_app/src/main/java/com/project/spring_boot_scaffold_app/Application.java
+/home/romakatsa/Storage/spring_boot_scaffold_app/src/main/java/com/project/spring_boot_scaffold_app/controllers/MainController.java
+/home/romakatsa/Storage/spring_boot_scaffold_app/src/main/java/com/project/spring_boot_scaffold_app/config/LiquibaseConfig.java
+/home/romakatsa/Storage/spring_boot_scaffold_app/src/main/java/com/project/spring_boot_scaffold_app/config/AppConfiguration.java
+/home/romakatsa/Storage/spring_boot_scaffold_app/src/main/java/com/project/spring_boot_scaffold_app/services/AwsS3Service.java
+/home/romakatsa/Storage/spring_boot_scaffold_app/src/main/java/com/project/spring_boot_scaffold_app/services/AwsS3Props.java
+/home/romakatsa/Storage/spring_boot_scaffold_app/src/main/java/com/project/spring_boot_scaffold_app/services/SampleService.java

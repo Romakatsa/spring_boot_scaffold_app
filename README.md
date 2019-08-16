@@ -14,8 +14,9 @@ All configurations that are related to spring, postgres, aws, elk are in
 
 ## PostgreSql
         
-        You need PostgreSQL v9.4 installed, user and database created. Then change application.yml datasource config accordingly
-        
+        You need PostgreSQL v9.4 installed, user and database created. 
+        Then change application.yml datasource config accordingly
+       
 
 ## Maven
 

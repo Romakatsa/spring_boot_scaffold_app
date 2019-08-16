@@ -2,7 +2,7 @@
 
 APP=spring_boot_scaffold_app
 USER=apps1
-SERV=prod.cmlteam.com
+SERV=prod.yourdomain.com
 
 echo
 echo "BUILD..."

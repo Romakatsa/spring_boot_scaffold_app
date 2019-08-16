@@ -45,6 +45,6 @@ s3:
   endpoint: https://s3.us-west-1.wasabisys.com
 
 elk:
-  host: elk.cmlteam.com
+  host: elk.project.com
   port: 10443
   application: spring_boot_scaffold_app

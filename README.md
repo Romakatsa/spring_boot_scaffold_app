@@ -1,4 +1,12 @@
 
+# Configure Application
+config files are in src/main/resources folder:
+        application.yml
+        application-prod.yml
+        application-test.yml
+
+All configurations that are related to spring, postgres, aws, elk are in application.yml file.
+
 #   Run Application
 ## Maven
 
